@@ -11,7 +11,7 @@
 
 ## 🌟 Screenshot
 
-![DuoBot Screenshot]("duobot image.jpg")
+![DuoBot Screenshot]("dubot image.jpg")
 
 ---
 
