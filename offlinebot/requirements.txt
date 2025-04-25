@@ -1,0 +1,6 @@
+streamlit
+mistral
+duckduckgo-search
+SpeechRecognition
+pyaudio
+subprocess
