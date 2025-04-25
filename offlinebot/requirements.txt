@@ -1,6 +1,5 @@
-streamlit
-mistral
-duckduckgo-search
-SpeechRecognition
-pyaudio
-requests
+streamlit==1.44.1
+mistral==20.0.0
+duckduckgo-search==8.0.1
+SpeechRecognition==3.14.2
+sounddevice==0.4.4  
