@@ -3,4 +3,4 @@ mistral
 duckduckgo-search
 SpeechRecognition
 pyaudio
-subprocess
+requests
