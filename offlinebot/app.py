@@ -79,7 +79,7 @@ if current_session_id not in chat_history:
 
 # ---------- Sidebar ----------
 with st.sidebar:
-    st.image(r"C:\Users\snpoo\OneDrive\Desktop\bot image.jpg", width=50)
+    st.image(r"https://drive.google.com/file/d/1Rq8nhKG7vDuCNl0lX422giTl0AQkrkze/view?usp=drive_link", width=50)
     st.title("🤖 DuoBot")
     mode = st.selectbox("Choose Mode", ["Offline", "Online"])
     uploaded_image = st.file_uploader("Upload image (optional)", type=["jpg", "jpeg", "png"])
