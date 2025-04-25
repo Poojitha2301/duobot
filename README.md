@@ -11,7 +11,7 @@
 
 ## 🌟 Screenshot
 
-![DuoBot Screenshot]("C:\Users\snpoo\OneDrive\Desktop\dubot image.jpg")
+![DuoBot Screenshot]("duobot image.jpg")
 
 ---
 
